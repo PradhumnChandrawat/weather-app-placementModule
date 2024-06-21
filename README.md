@@ -21,6 +21,8 @@ CSS: For styling components.
 
 ## git clone https://github.com/PradhumnChandrawat/weather-app-placementModule.git
 
+## Project Hosted Link: https://weather-app-placement-module.vercel.app/
+
 ## Install dependencies
 
 bash
@@ -47,5 +49,5 @@ Search for a City: Enter the name of a city in the search box and click the "Sea
 
 Delete Data: Click the "Delete" button next to a city's weather entry to remove it from the table.
 
-Project Hosted Link: https://weather-app-placement-module.vercel.app/
+
 
