@@ -1,5 +1,5 @@
-### Weather App
-# This Weather App is a React-based application that allows users to view and manage weather details for a selection of cities. It features a dynamic interface where users can select a city to fetch weather data, view the details in a table format, and delete entries as needed. Additionally, the app includes a search functionality that highlights the row of a searched city.
+# Weather App
+This Weather App is a React-based application that allows users to view and manage weather details for a selection of cities. It features a dynamic interface where users can select a city to fetch weather data, view the details in a table format, and delete entries as needed. Additionally, the app includes a search functionality that highlights the row of a searched city.
 
 ## Features
 View Weather Data: Fetch and display weather data for selected cities.
@@ -13,7 +13,7 @@ React: Frontend library for building the user interface.
 Axios: For making HTTP requests to the weather API.
 CSS: For styling components.
 
-## git clone https://github.com/yourusername/weather-app.git
+## git clone https://github.com/PradhumnChandrawat/weather-app-placementModule.git
 
 ## Install dependencies
 
